@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cube
+build_property.ProjectDir = C:\Users\688st\OneDrive\Рабочий стол\GeekBrains обучение\Знакомство с языками программирования\HomeWork\Семинар 27.12.2021\Cube\
